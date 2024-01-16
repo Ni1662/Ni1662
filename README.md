@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Nitesh from Mumbai.<br><br>🔭 I’m working as a Software Engineering student, passionate about coding and problem-solving.<br><br>📚 I'm currently learning and expanding my skills in full-stack development, exploring technologies like ReactJS and NodeJS.<br><br>⚡ In my free time, I enjoy diving into coding challenges, contributing to open-source projects, and honing my craft to stay on the cutting edge of technology.</p>
+<p align="left">I'm Nitesh from Mumbai.<br><br>🔭 I’m working as a Software Engineering student, passionate about coding and problem-solving.<br><br>📚 I'm currently learning and expanding my skills in full-stack development, exploring technologies like NextJS, ReactJS and NodeJS.<br><br>⚡ In my free time, I enjoy diving into coding challenges, contributing to open-source projects, and honing my craft to stay on the cutting edge of technology.</p>
 
 ###
 
